@@ -1,0 +1,23 @@
+.card {
+    background: #fff;
+    border: solid black;
+    border-color: black;
+    width: 38rem;
+    font-family: 'Dancing Script', cursive;
+    border-width: 3px 3px 4px 4px;
+    border-radius: 4% 95% 6% 95%/95% 4% 92% 5%;
+}
+
+.card-text {
+    font-size: 6vh;
+    font-weight: 800;
+}
+
+.card-link {
+    font-family: 'Dancing Script', cursive;
+    font-size: 4vh;
+}
+
+.card-link:hover {
+    cursor: pointer;
+}
